@@ -1,6 +1,3 @@
-Here's a clean and structured **README.md** file for your Python-based web scraping/crawling tool:
-
----
 
 # 🕷️ UltraCrawlerAndScraper
 
