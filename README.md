@@ -1,5 +1,5 @@
 ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Nicholas55555/UltraCrawlerandScraper/badge)
-[![OpenSSF Best Practices](https://bestpractices.devbadge.org/projects/YOUR_PROJECT_ID/badge)](https://bestpractices.dev/projects/YOUR_PROJECT_ID)
+[![OpenSSF Best Practices](https://bestpractices.devbadge.org/projects/10269/badge)](https://www.bestpractices.dev/en/projects/10269)
 
 # 🕷️ UltraCrawlerAndScraper
 
