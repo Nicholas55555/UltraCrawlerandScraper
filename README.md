@@ -133,5 +133,5 @@ This tool is for **educational and ethical use only**. Always respect website te
 
 ## 👨‍💻 Author
 
-Developed by [Nicholas Taylor].
+Developed by Nicholas Taylor.
 
