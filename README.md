@@ -1,6 +1,5 @@
 ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Nicholas55555/UltraCrawlerandScraper/badge)
-[![OpenSSF Best Practices](https://bestpractices.devbadge.org/projects/10269/badge)](https://www.bestpractices.dev/en/projects/10269)
-
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10269/badge)](https://www.bestpractices.dev/projects/10269)
 # 🕷️ UltraCrawlerAndScraper
 
 A powerful and customizable multithreaded web crawler and scraper built with **Scrapy**, **Tkinter**, and **EasyGUI**. It supports features such as:
